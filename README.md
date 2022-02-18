@@ -37,13 +37,13 @@ the user is responsible.
 
 <h2> 📢 Guide 📢 </h2>
 
-> [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
+> [Join For Support & Helps On Telegram.]()
 
-> [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
+> [New Telegram Plugin Group. ]
 
-<a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/947772978164">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94763983965">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
+<a href="">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
+<a href="">ꜱʟ-ᴀʟᴘʜᴀ</a> |
+<a href="">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
 
 <p align="center"> 
     
@@ -99,7 +99,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer-2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NishNishendanidu/Alpha-X-WA-Bot-Installer-2.git
             
 
 **• Watch tutorial** [Video](https://youtu.be/en4FLOsGRJY) **to create bot**
